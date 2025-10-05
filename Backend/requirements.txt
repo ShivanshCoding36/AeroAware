@@ -5,5 +5,7 @@ pandas
 xarray
 joblib
 supabase
+scikit-learn
 python-dotenv
 gunicorn
+
