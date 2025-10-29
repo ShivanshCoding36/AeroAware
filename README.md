@@ -1,4 +1,4 @@
-Access the site at: https://aeroaware.vercel.app/
+Access the site at: https://aero-aware.vercel.app/
 
 # 🌍 AeroAware – Real-Time Air Quality Forecasting Platform
 
