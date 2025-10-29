@@ -24,7 +24,7 @@ export default function Dashboard() {
       const latitude = pos.coords.latitude.toFixed(2);
       const longitude = pos.coords.longitude.toFixed(2);
       console.log(latitude,longitude);
-      const res = await axios.post("https://aero-aware.onrender.com/api/combined", {
+      const res = await axios.post("https://aeroaware.onrender.com/api/combined", {
         latitude,
         longitude,
       });
@@ -145,4 +145,5 @@ export default function Dashboard() {
     </div>
   );
 }
+
 
